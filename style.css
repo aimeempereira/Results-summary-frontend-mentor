@@ -241,6 +241,10 @@ color: var(--clr-primary-blue);}
   font-size: 1.1rem;
 }
 
+.button:active, .button:hover {
+  background: linear-gradient(to bottom,var(--clr-gradient-slate-blue), var(--clr-gradient-royal-blue));
+}
+
 .attribution {
   text-align: center;
   margin-top: 1.5rem;
