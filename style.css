@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Hanken Grotesk', sans-serif;
-  src: url('./assets/fonts/HankenGrotesk-VariableFont_wght.ttf');
+  src: url('/assets/fonts/HankenGrotesk-VariableFont_wght.ttf');
 }
 
 :root {
